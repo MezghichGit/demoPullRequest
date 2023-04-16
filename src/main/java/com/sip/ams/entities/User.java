@@ -52,12 +52,13 @@ public class User {
 	}
 	
 	public void info() {
-		
 	}
 	public void info1() {
-		
-	}public void info2() {
-		
+
+	}
+  public void info2() {
+	System.out.println("");	
+
 	}
 	
 	public String getPassword() {
@@ -69,6 +70,9 @@ public class User {
 	public String getName() {
 		return name;
 	}
+
+	public void info()
+	{}
 	public void setName(String name) {
 		this.name = name;
 	}
