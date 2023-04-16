@@ -57,7 +57,7 @@ public class User {
 	public void info1() {
 		
 	}public void info2() {
-		
+	System.out.println("Amine");	
 	}
 	
 	public String getPassword() {
