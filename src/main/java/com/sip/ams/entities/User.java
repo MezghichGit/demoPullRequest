@@ -64,6 +64,7 @@ public class User {
 	public String getName() {
 		return name;
 	}
+
 	public void info()
 	{}
 	public void setName(String name) {
