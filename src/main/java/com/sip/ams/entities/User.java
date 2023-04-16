@@ -54,6 +54,9 @@ public class User {
 	public void info() {
 		
 	}
+	public void info1() {
+	System.out.println("");	
+	}
 	
 	public String getPassword() {
 		return password;
